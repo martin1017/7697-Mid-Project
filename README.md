@@ -19,8 +19,8 @@
 * [專案心得](#專案心得)
 
 ## 目的
-
-本次專案利用上課所學的感測器和顯示器，分別是溫溼度感測器、聲音感測器、觸控感測器、LED Bar，
+  
+本次專案利用上課所學的感測器和顯示器，分別是溫溼度感測器、聲音感測器、觸控感測器、LED Bar，並利用內建的Wifi晶片連上網路，傳送溫濕度資料到IFTTT的Webhook傳送溫度提醒到Line群組
 ```
 http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json
 ```

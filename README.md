@@ -20,7 +20,7 @@
 
 ## 目的
 
-本次專案利用上課所學的感測器和顯示器，分別是溫溼度感測器、聲音感測器、觸控感測器、LED Bar
+本次專案利用上課所學的感測器和顯示器，分別是溫溼度感測器、聲音感測器、觸控感測器、LED Bar，
 ```
 http://download.labs.mediatek.com/package_mtk_linkit_7697_index.json
 ```
